@@ -1,4 +1,3 @@
-
 <div class="card  mb-4 card-hover">
     <a href="pages/course-single.html" class="card-img-top"><img src="assets/images/course-graphql.jpg" alt=""
             class="rounded-top card-img-top"></a>
